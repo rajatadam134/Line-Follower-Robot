@@ -18,7 +18,7 @@ Designed and built an autonomous robot that follows a line path using IR sensors
 
 ## Features
 - Line-following logic
-- Maze-solving capabilities
+- Maze-solving capabilities (Future Upgrade)
 - Obstacle avoidance (upgraded version)
 
 ## Future Scope
